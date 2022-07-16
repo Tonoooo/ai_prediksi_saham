@@ -1,1 +1,1 @@
-# ai_prediksi_saham
+# Memprediksi saham indonesia
