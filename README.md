@@ -10,7 +10,8 @@ Kita bisa bebas mau berapa hari kedepan program ini menghasilkan saham yang akan
 
 Model ai ada di drive: https://drive.google.com/drive/folders/1QeiPDCvXWYhAsLQkjjigt6KsJRaELA9T?usp=sharing
 Untuk data trainingnya: https://drive.google.com/drive/folders/1ZA1gG13uFzSrTXhSVPrt2dYxTBFnemSV?usp=sharing
-karena tidak bisa diupload digithub.
+karena tidak memungkinkan diupload digithub.
+
 
 ## Contoh hasil program
 1. naik 4.4%
