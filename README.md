@@ -8,6 +8,10 @@ kita ambil indeks saham issi disitukan terdapat sekitar 400an saham, setiap saha
 
 Kita bisa bebas mau berapa hari kedepan program ini menghasilkan saham yang akan naik dihari itu. bisa 1/2/3/4/5 itu hari kedepan
 
+Model ai ada di drive: https://drive.google.com/drive/folders/1QeiPDCvXWYhAsLQkjjigt6KsJRaELA9T?usp=sharing
+Untuk data trainingnya: https://drive.google.com/drive/folders/1ZA1gG13uFzSrTXhSVPrt2dYxTBFnemSV?usp=sharing
+karena tidak bisa diupload digithub.
+
 ## Contoh hasil program
 1. naik 4.4%
 ![asrie](https://user-images.githubusercontent.com/92434748/179344313-693e378e-a5c8-441e-abd3-134e5ba92ff7.jpg)
